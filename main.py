@@ -102,4 +102,4 @@ async def on_message(message):
             await message.channel.send('entre em um canal de voz')
         
 
-client.run('NzI3NjgzMjYyOTczMDgzNjQ4.XvvaYg.fPQtmyUX9Wsllh0RhymTwdg-p4A')
+client.run('seu token aqui')
